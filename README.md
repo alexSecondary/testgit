@@ -1,2 +1,2 @@
 # testgit
-test githum repository
+test github repository
